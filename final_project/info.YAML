@@ -1,0 +1,31 @@
+---
+# Members of your group.
+group:
+  - name: Aadityaa Singla
+    netid: ans262
+  - name: Brian Sa
+    netid: bs755
+  - name: Aiden Montesinos
+    netid: aom33
+# Your PM.
+pm:
+  name: Evan Cui
+  netid: ec875
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "The Fashion Visualizer (FV)"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/bs755/final_project.git"
+# Replace the URL with your own demo video.
+demo-video-url: "https://youtu.be/UFwPL6VgToE"
+# Write a short, attention-grabbing description of your project.
+desc: >
+  This program will visualize fashion trends over time, using a collection of text files containing articles, 
+  which have then been analyzed using our program to hold certian datapoints via csv rows. The UI will allow users to input 
+  a fashion article and display a graph comparing the prevalance of certian articles of clothing in the article.
+  Meanwhile a text based command line interaction allows for article comparison, seeing how many times a
+  certian article appears in different fashion texts from different months.
+  The visual representation will be created using OCaml’s built-in libraries for data visualization, 
+  and users will interact with the program via a mixture of the command line and the gui. 
+

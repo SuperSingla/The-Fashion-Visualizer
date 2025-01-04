@@ -1,0 +1,5 @@
+(executable
+ (public_name final_project)
+ (name main)
+ (libraries final_project lablgtk3 cohttp cohttp-lwt-unix lambdasoup lwt))
+ 

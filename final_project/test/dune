@@ -1,0 +1,4 @@
+(test
+ (libraries final_project ounit2 csv str lwt)
+ (name test_final_project)
+  (deps (glob_files_rec ../data/*)))

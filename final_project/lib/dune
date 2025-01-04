@@ -1,0 +1,6 @@
+(library
+(libraries csv str lablgtk3 cairo2 cohttp cohttp-lwt-unix lambdasoup lwt.unix)
+(preprocess (pps lwt_ppx))
+ (instrumentation
+  (backend bisect_ppx))
+ (name final_project))

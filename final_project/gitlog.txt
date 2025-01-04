@@ -1,0 +1,397 @@
+commit d1d05a483ca8f8cf6d5dc150a827609f330ed8aa
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Fri Dec 13 13:11:40 2024 -0500
+
+    Added text interaction, edited yaml file and added more comments
+    
+    -This is the final submission
+
+commit 236fe74d5ea68cbe915cbe7ff5e2f2ff1fd420a0
+Author: aom33 <aom33@cornell.edu>
+Date:   Fri Dec 13 11:48:21 2024 -0500
+
+    Implemented display_csv
+
+commit d7a27f37c34c169c0af674465a44b4b9b5f6624f
+Author: aom33 <aom33@cornell.edu>
+Date:   Fri Dec 13 11:31:32 2024 -0500
+
+    Stats displayed
+
+commit b03f038fc81805951a9d7c4d6128b73a22f12bdb
+Merge: 6bed9f7 4554d4a
+Author: aom33 <aom33@cornell.edu>
+Date:   Fri Dec 13 11:25:35 2024 -0500
+
+    Merged
+
+commit 6bed9f77435cbfcac933edc495bedfe7061e4b63
+Author: aom33 <aom33@cornell.edu>
+Date:   Fri Dec 13 11:17:01 2024 -0500
+
+    Added Stats to GUI
+
+commit 4554d4ababe3cbd53b2a8deb305ebcd9a8880fad
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Fri Dec 13 11:02:40 2024 -0500
+
+    Edited Main to better accomodate all devices
+
+commit 30218ce0b36a4025b110274e0ae57b1b353d5ed3
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Fri Dec 13 05:07:02 2024 -0500
+
+    Edited some deliverables to match our current progress
+
+commit 52b005a4bb156c52db7104b6e4d05276e3bc6142
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Fri Dec 13 04:38:12 2024 -0500
+
+    Cleaned up Code
+
+commit 8e891af1438d82bbd4e154702ebafdff5a4360bd
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Fri Dec 13 04:20:24 2024 -0500
+
+    Added more ounit tests for better coverage
+
+commit d9dfc77484daf73ccac9881f5040bd5203919af3
+Author: aom33 <aom33@cornell.edu>
+Date:   Fri Dec 13 03:18:20 2024 -0500
+
+    fixed GUI intro
+
+commit e93c2fa7ac021a5c000687bccbd7f4e7602c4e35
+Author: aom33 <aom33@cornell.edu>
+Date:   Fri Dec 13 03:13:44 2024 -0500
+
+    added spec for interface
+
+commit 8605447ce4ff1fe7137d1025067f6be7456bc86d
+Author: aom33 <aom33@cornell.edu>
+Date:   Fri Dec 13 03:11:49 2024 -0500
+
+    Added terminal element for GUI variation
+
+commit cf9aa6ef7036e1bb40ca71785ad320cc4b02e07e
+Author: aadisingla <ans262@cornell.edu>
+Date:   Fri Dec 13 02:36:29 2024 -0500
+
+    adding more testcases to check for edge cases and unusual data
+
+commit cab78763a111539364a0b6e28aba36d139d21f40
+Author: aadisingla <ans262@cornell.edu>
+Date:   Fri Dec 13 02:00:41 2024 -0500
+
+    deleted data and added some tests
+
+commit b9c9aaecc79909156cb680d3b3a3621bcefb3fa8
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Fri Dec 13 01:53:13 2024 -0500
+
+    Added helper for main function to check for valid searches
+
+commit 6008c4f429729ae7398a5a981080c95ee1c3c70b
+Author: aom33 <aom33@cornell.edu>
+Date:   Fri Dec 13 01:43:46 2024 -0500
+
+    Implemented Pie Chart in GUI
+
+commit 30341448d572d7924f3aa7c9283f98be02fb54e2
+Author: aadisingla <ans262@cornell.edu>
+Date:   Fri Dec 13 01:36:14 2024 -0500
+
+    created text_to_csv for all files in data/articles
+    
+    - parsed article data with python script
+
+commit 32923fc3386d2ad18fcc2a3e4b65531294e7154a
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Thu Dec 12 22:44:34 2024 -0500
+
+    Added more Ounit tests, debug date function
+
+commit 8c7bacba6da57b31c8d4ae4c27f77675a00e3425
+Author: aadisingla <ans262@cornell.edu>
+Date:   Thu Dec 12 22:38:48 2024 -0500
+
+    edited type consistency for float and int
+    
+    added files to read and convert to csv
+
+commit c67907a3a48846c723821eac4e8206d55d3f2e7e
+Merge: af1f3c1 df838b4
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Thu Dec 12 22:29:24 2024 -0500
+
+    Merge branch 'main' of github.coecis.cornell.edu:bs755/final_project
+    and also added test cases for fashion csv and fashion text to csv
+
+commit df838b49d101c6155656df8e52ccc3d2f1230b48
+Author: aom33 <aom33@cornell.edu>
+Date:   Thu Dec 12 21:53:32 2024 -0500
+
+    Added color to differentiate bar graphs
+
+commit 390707c83a625a3964823f709076b667fa6bf728
+Author: aadisingla <ans262@cornell.edu>
+Date:   Thu Dec 12 21:47:02 2024 -0500
+
+    fixed test files + changed aggregate_by function
+    
+    - formatted some files
+
+commit ceba9caa23428522cb9e78fd43b098c7a2f29ada
+Author: aom33 <aom33@cornell.edu>
+Date:   Thu Dec 12 21:35:02 2024 -0500
+
+    Moved Buttons to Side Bar in GUI
+
+commit af1f3c1c429a184ff018effc4f9f52e0e05483e4
+Merge: 3b474e3 1aeef66
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Thu Dec 12 20:29:15 2024 -0500
+
+    Merge branch 'main' of github.coecis.cornell.edu:bs755/final_project
+
+commit 1aeef6643529a1bd3412fc523d3f5cab622be14f
+Author: aom33 <aom33@cornell.edu>
+Date:   Thu Dec 12 20:23:23 2024 -0500
+
+    created seamless exiting and switching between graphs
+
+commit 3b474e32ea0ac0a880d711056ba86c3b6867c784
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Thu Dec 12 20:06:21 2024 -0500
+
+    Added Ounit Testing for fashion_csv
+
+commit b56f0868379c3ce7c4ed4593aa1af972297f28ae
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Thu Dec 12 17:25:22 2024 -0500
+
+    Added txt reading functionality
+    
+    - has a text_to_csv feature which allows users to directly
+    search for a word from a text file and get data on it by puttin it in a
+    csv file of their choosing
+    - has a read_lines feature that does the same reading as text_to_csv but
+    returns a string list of the data instead
+
+commit cb186eecdd1b6037d708bd14f44a61c4c6012d33
+Author: aom33 <aom33@cornell.edu>
+Date:   Thu Dec 12 14:17:14 2024 -0500
+
+    Semi-functional toggle between graphs
+
+commit 77b32dbe2d0c9984f18a11542da2a79d19b238fb
+Author: aadisingla <ans262@cornell.edu>
+Date:   Thu Dec 12 13:29:13 2024 -0500
+
+    added more statistics and sorting functionality to arithmetic
+
+commit de7ad4c95c978a02a28984872a54bcff37d797fe
+Author: aadisingla <ans262@cornell.edu>
+Date:   Thu Dec 12 13:20:16 2024 -0500
+
+    added some more tests/fixed the calling issue
+
+commit 7ccca12422d0588ccefdef2b6abf35e372091c52
+Author: aadisingla <ans262@cornell.edu>
+Date:   Thu Dec 12 13:06:25 2024 -0500
+
+    added arithmetic functionality and resolved type errors in mli files
+
+commit b6f937462010ec268219355b22a9b19f03e8d5f8
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Thu Dec 12 12:16:50 2024 -0500
+
+    Added a way to add a list of items into storage
+
+commit 81ead566121504b0c5def0f50a138b8dc5ac259a
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Thu Dec 12 02:38:14 2024 -0500
+
+    Edited csv file for error
+
+commit 9ef6c9aabc35de5cacad682badc81c49a6632821
+Merge: 7f3170b 136956e
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Wed Dec 11 22:54:59 2024 -0500
+
+    Merge branch 'main' of github.coecis.cornell.edu:bs755/final_project
+
+commit 7f3170bcf46e14abcb0817ec276d7766a0dc0408
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Wed Dec 11 22:53:43 2024 -0500
+
+    Resolving a merge
+
+commit 397e0345b8fabf7b233d08c0de6cca914b9e7131
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Wed Dec 11 22:40:01 2024 -0500
+
+    Added CSV to GUI compatibility
+    
+    -tested webscraping tools too
+
+commit 136956ec49f0f3cb3444c46f897f57290ef5361b
+Author: aom33 <aom33@cornell.edu>
+Date:   Tue Dec 10 15:02:52 2024 -0500
+
+    Implemented Switch Graph Button
+
+commit 4ad4fe3fd5c710c0845a92e24a2da2c23cb27b47
+Author: ans262 <ans262@cornell.edu>
+Date:   Wed Dec 4 15:32:07 2024 -0500
+
+    just reformatted some stuff
+
+commit d04fc5408723ac0dd64c48c53ca3a56b704d372d
+Merge: 77427f3 04c9103
+Author: ans262 <ans262@cornell.edu>
+Date:   Wed Dec 4 15:22:15 2024 -0500
+
+    Merge branch 'main' of github.coecis.cornell.edu:bs755/final_project
+
+commit 04c91039c8b9ef8399c42f64eb7beebca2d74f4f
+Author: aom33 <aom33@cornell.edu>
+Date:   Tue Dec 3 23:43:40 2024 -0500
+
+    Fixed window title
+
+commit a4acb54e2b9834b5d47a1a45314258c42dc6bc24
+Author: aom33 <aom33@cornell.edu>
+Date:   Tue Dec 3 22:54:23 2024 -0500
+
+    Implemented a bar graph comparing values in a csv
+
+commit 543719e43fe5f26a1590ddc8dbe369852e94b715
+Author: aom33 <aom33@cornell.edu>
+Date:   Tue Dec 3 22:33:52 2024 -0500
+
+    Modified INSTALL.md by seperating run statements
+
+commit 36ed37fb50cbb9b1e847d9853a23e190e6b85845
+Author: aom33 <aom33@cornell.edu>
+Date:   Tue Dec 3 19:56:19 2024 -0500
+
+    example CSV comment
+
+commit 9bfeac98bce159be09a92caf2ec3dfae41059ac2
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Tue Dec 3 19:54:43 2024 -0500
+
+    Added more install instructions
+
+commit 8f06cf9fb3d44053ca20425071b92fb2beb9bc35
+Author: aom33 <aom33@cornell.edu>
+Date:   Tue Dec 3 19:42:37 2024 -0500
+
+    added cairo installation
+
+commit 28510da72059e9d5513044730f84fb8c41029adf
+Author: aom33 <aom33@cornell.edu>
+Date:   Wed Oct 30 21:36:02 2024 -0400
+
+    Implemented add_up that displays the result of adding 2 distinct csv lines
+
+commit 3892ebde425e0af0d0fe50c67640396a300ba86d
+Author: aom33 <aom33@cornell.edu>
+Date:   Wed Oct 30 21:03:39 2024 -0400
+
+    working test file and exposed create in fashion_csv.mli
+
+commit 77427f3f130dc28cd7c50fcf551ac680c5f3d7f1
+Author: ans262 <ans262@cornell.edu>
+Date:   Wed Oct 30 15:58:39 2024 -0400
+
+    not sure why create is unbound?
+
+commit bd752c2eff7b90b2efe53de4a5cb180121c9de56
+Author: ans262 <ans262@cornell.edu>
+Date:   Wed Oct 30 15:33:09 2024 -0400
+
+    allowing OUnit2 to be used
+
+commit 59007d05072cffe3ca6c7e99f39599577d7875f7
+Author: ans262 <ans262@cornell.edu>
+Date:   Wed Oct 30 15:32:56 2024 -0400
+
+    added YAML file
+    
+    - youtube link to be corrected
+
+commit 6c4dadb4ff3341023af4392faf737d56fd0d3939
+Author: ans262 <ans262@cornell.edu>
+Date:   Wed Oct 30 15:13:12 2024 -0400
+
+    implemented interface and function for addition of two clothing articles
+
+commit c8d7763e83015d4880398881d5ce50de2626c5de
+Author: ans262 <ans262@cornell.edu>
+Date:   Wed Oct 30 15:05:25 2024 -0400
+
+    edited type annotations of return_date and return_article
+
+commit 86110f648f0eb4d75d98f71efc9984163161c44f
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Wed Oct 30 14:16:11 2024 -0400
+
+    Added a to list function for ease
+
+commit eff769a73d97178e985d7d10f8c9f7aebbaf6056
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Tue Oct 29 23:59:13 2024 -0400
+
+    Edited functions in fashion_csv complation unit
+    - deleted some unessecary functions
+    - completed commenting on what the unit does
+
+commit ad2c5860ab97e547f8e265c8173dca59148d4480
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Tue Oct 29 02:17:11 2024 -0400
+
+    Implemented mli file of fashion_csv module
+    
+    - added 2 types
+    - added 3 possible functions
+
+commit f4afadcf2a2dcdcf858444af2b6e275e832c68fa
+Author: aom33 <aom33@cornell.edu>
+Date:   Tue Oct 29 00:45:02 2024 -0400
+
+    used lablgtk3 to make gui that is runnable in main.ml
+
+commit 2e28e2e3de3b4111eba22b13bae061f5b2cf4d60
+Author: aom33 <aom33@cornell.edu>
+Date:   Mon Oct 28 21:27:40 2024 -0400
+
+    added interface funciton to fashion_gui.mli
+
+commit 1295abe0af6ab7e95ef8348c586d3e67862d9364
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Mon Oct 28 21:26:11 2024 -0400
+
+    Added cases to the test csv file
+
+commit 47229763b8b1d7844f278f88d00e293c67849c12
+Author: ans262 <ans262@cornell.edu>
+Date:   Mon Oct 28 21:24:37 2024 -0400
+
+    added function definition in interface for fashion_arithmetic
+
+commit 13a27a69a5179ea42385151312c3149fa35d3d2c
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Mon Oct 28 21:05:42 2024 -0400
+
+    Implement fashion_csv, fashion_gui and fashion_arithmetic
+    
+    - Wrote module formats
+    - added csv capabilities
+
+commit 57e05660623ddc1497e537fe035e394395d5baab
+Author: Brian Sa <bs755@cornell.edu>
+Date:   Thu Oct 10 21:32:36 2024 -0400
+
+    Initial commit
